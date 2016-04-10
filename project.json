@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+      "OpenTK.NETCore": "1.0",
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "1.0.0-rc2-3002339"
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.0": {}
+  }
+}
